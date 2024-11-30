@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Data
+data/
+*.csv
+*.h5
+
+# Docker
+*.log
+.dockerignore
